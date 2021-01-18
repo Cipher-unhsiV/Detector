@@ -33,3 +33,5 @@ It throws **three** _different calculated values_ as output, namely:-
 - The value detected is only applicable for that stipulated time.
 - This project is not meant for prolonged expectation.
 
+
+IF YOU FIND THIS PROJECT USEFUL AND INTERESTING, DO STAR IT!!
