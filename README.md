@@ -15,6 +15,6 @@ It totally takes **four values** as user inputs and manipulates these values to 
 It throws **three** _different calculated values_ as output, namely:-
 - minutes,
 - hours, and
-- days.
+- days required.
 
 
