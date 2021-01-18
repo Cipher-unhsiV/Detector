@@ -34,4 +34,4 @@ It throws **three** _different calculated values_ as output, namely:-
 - This project is not meant for prolonged expectation.
 
 
-IF YOU FIND THIS PROJECT USEFUL AND INTERESTING, DO STAR IT!!
+IF YOU FIND THIS PROJECT USEFUL AND INTERESTING, KINDLY DO STAR IT!!
