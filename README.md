@@ -25,3 +25,11 @@ It throws **three** _different calculated values_ as output, namely:-
 ## SAMPLE OUTPUT:-
 
 ![ice_screenshot_20210118-211052](https://user-images.githubusercontent.com/64918181/104935832-bda9f080-59d1-11eb-9649-7c3c27261b72.png)
+
+### NOTE:-
+
+- This project should not be subjected for professional use.
+- The value shown will/may vary from time-to-time.
+- The value detected is only applicable for that stipulated time.
+- This project is not meant for prolonged expectation.
+
