@@ -1,4 +1,4 @@
-# DETECTOR
+# DETECTeR
 
 ## INTRODUCTION:-
 
